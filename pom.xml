@@ -19,7 +19,7 @@
 
         <commons-net-version>3.6</commons-net-version>
         <lombok-version>1.16.18</lombok-version>
-        <log4j-version>2.7</log4j-version>
+        <log4j-version>2.16.0</log4j-version>
 
         <jar.netcommons22>/Users/spedison/git/lib/commons-net-3.6/commons-net-3.6.jar</jar.netcommons22>
         <jar.netcommons>${dir.lib}${file.separator}commons-net-${commons-net-version}${file.separator}commons-net-${commons-net-version}.jar</jar.netcommons>
